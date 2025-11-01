@@ -1,0 +1,31 @@
+# Core system
+python-dotenv==1.0.1
+requests==2.32.3
+pandas==2.2.3
+numpy==2.1.2
+
+# Packet capture & analysis
+scapy==2.5.0
+tqdm==4.66.5
+
+# Visualization & reporting
+matplotlib==3.9.2
+
+# Supabase integration
+supabase==2.4.0
+gotrue==2.5.0
+storage3==2.5.0
+postgrest==0.15.0
+realtime==2.1.0
+
+# Machine Learning / Detection Logic (optional, for Phase 2 AI extension)
+scikit-learn==1.5.2
+
+# Date & Time utilities
+python-dateutil==2.9.0.post0
+
+# CLI colors / logs
+rich==13.9.2
+
+# Virtual environment management (optional for local setup)
+virtualenv==20.27.1

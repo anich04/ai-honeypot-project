@@ -1,0 +1,15 @@
+# Ignore Python cache & compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore logs and datasets
+logs/
+*.csv
+*.pcap
+*.zip
+
+# Ignore environment and credentials
+.env
