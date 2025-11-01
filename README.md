@@ -163,7 +163,7 @@ Lovable Dashboard Project Prompt:
 > **AI Honeypot Dashboard (Realtime Supabase Integration)**  
 > Built using Next.js + TailwindCSS + Supabase Realtime  
 > Pages: Dashboard • Traffic • Threats • Metrics  
-
+> our project url : https://honeyflow-guard.lovable.app/?utm_source=lovable-editor
 **Features:**
 - Auto-refresh metrics every 30s  
 - Realtime threat updates via Supabase subscriptions  
