@@ -202,7 +202,7 @@ Lovable Dashboard Project Prompt:
 
 ## 🏁 Author
 
-**Anirudh **  
+**Anirudh And Team**  
 Cybersecurity Specialist | Pentester | Developer  
 🔗 linkdin: https://www.linkedin.com/in/anirudh0402/
 
