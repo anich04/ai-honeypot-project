@@ -1,6 +1,6 @@
 # 🛡️ AI Honeypot Project — Intelligent Threat Detection System  
 
-**Developer:** Anirudh   
+**Developer:** Ch.Anirudh   
 **Stack:** Python • Supabase • Scapy • Pandas • Tailwind • Realtime Dashboard  
 
 ---
